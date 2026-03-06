@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hospital Operations Intelligence Dashboard
+# Hospital Operations  Dashboard
 
 **Real-Time Analytics & Command Center for Hospital Administrators**
 
